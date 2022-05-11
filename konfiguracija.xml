@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment/>
+<entry key="prikaziLegendu">true</entry>
+<entry key="koordinateAplikacijeY">15</entry>
+<entry key="koordinateAplikacijeX">15</entry>
+<entry key="odabraniProgrami">HTV1;HTV2;RTL;NOVA TV;RTL2;Doma TV;RTL Kockica;</entry>
+<entry key="brojStupaca">4</entry>
+<entry key="maxShowPoProgramu">10</entry>
+<entry key="intervalUMinutama">5</entry>
+</properties>
